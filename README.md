@@ -36,7 +36,7 @@ I actively maintain a repository of plugins designed to enhance the RusherHack e
 ![GitHub last commit](https://img.shields.io/github/last-commit/GarlicRot/GarlicSight)
 [![GitHub All Releases](https://img.shields.io/github/downloads/GarlicRot/GarlicSight/total)](https://github.com/GarlicRot/GarlicSight/releases/download/v1.0.1/Garlic-Sight-1.0.1.jar)
 
-GarlicSight is a RusherHack plugin designed to enhance your crosshair information display. It offers detailed insights about the blocks and entities you're targeting, including information on mobs, players, and other entities in your line of sight. With GarlicSight, you can also customize display settings to toggle titles such as 'Block:', 'Entity:', 'Position:', or 'Health', giving you full control over the information presented on your screen.
+GarlicSight is a RusherHack plugin designed to enhance your crosshair information display. It provides detailed insights about the blocks and entities you're targeting, including information on mobs, players, and other entities in your line of sight. The plugin now also includes detailed Redstone component information, allowing you to view power levels, states, delays, and modes for various Redstone devices. With GarlicSight, you can fully customize display settings to toggle titles like 'Block:', 'Entity:', 'Position:', 'Health:', and more, giving you complete control over the information presented on your screen.
 
 ---
 
