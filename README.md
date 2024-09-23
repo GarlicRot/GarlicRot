@@ -20,7 +20,9 @@ SmokeLog is dedicated to creating tools to help users log their daily habits. Ou
   <summary>Click to see my RusherHack plugins</summary>
 
 <div align="center">
-  <img src="https://github.com/RusherDevelopment/rusherhack-plugins/raw/main/Assets/RusherHacks/rh_head.png" alt="RusherHacks Logo" width="150" />
+  <a href="https://github.com/RusherDevelopment/rusherhack-plugins">
+    <img src="https://github.com/RusherDevelopment/rusherhack-plugins/raw/main/Assets/RusherHacks/rh_head.png" alt="RusherHacks Logo" width="150" />
+  </a>
 </div>
 
 ### [RusherHack Plugins](https://github.com/RusherDevelopment/rusherhack-plugins)
@@ -35,7 +37,9 @@ I actively maintain a repository of plugins designed to enhance the RusherHack e
 
 ### [GarlicSight](https://github.com/GarlicRot/GarlicSight)
 <div align="center">
-  <img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" alt="GarlicSight Icon" width="150" />
+  <a href="https://github.com/GarlicRot/GarlicSight">
+    <img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" alt="GarlicSight Icon" width="150" />
+  </a>
 </div>
 
 [![GitHub stars](https://img.shields.io/github/stars/GarlicRot/GarlicSight?style=social)](https://github.com/GarlicRot/GarlicSight/stargazers)
@@ -48,7 +52,9 @@ GarlicSight is a RusherHack plugin designed to enhance your crosshair informatio
 
 ### [LightningPop](https://github.com/GarlicRot/LightningPop)
 <div align="center">
-  <img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" alt="LightningPop Icon" width="150" />
+  <a href="https://github.com/GarlicRot/LightningPop">
+    <img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" alt="LightningPop Icon" width="150" />
+  </a>
 </div>
 
 [![GitHub stars](https://img.shields.io/github/stars/GarlicRot/LightningPop?style=social)](https://github.com/GarlicRot/LightningPop/stargazers)
@@ -61,7 +67,9 @@ LightningPop adds lightning strikes during gameplay events, such as totem pops a
 
 ### [AutoBucket](https://github.com/GarlicRot/AutoBucket)
 <div align="center">
-  <img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" alt="AutoBucket Icon" width="150" />
+  <a href="https://github.com/GarlicRot/AutoBucket">
+    <img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" alt="AutoBucket Icon" width="150" />
+  </a>
 </div>
 
 [![GitHub stars](https://img.shields.io/github/stars/GarlicRot/AutoBucket?style=social)](https://github.com/GarlicRot/AutoBucket/stargazers)
