@@ -1,96 +1,81 @@
-# <img src="https://github.com/GarlicRot.png" alt="GarlicRot Avatar" width="50" /> Hi there, I'm GarlicRot! 👋
-
-## 🔥 SmokeLog
-
 <div align="center">
-  <a href="https://github.com/SmokeLog">
-    <img src="https://github.com/SmokeLog.png" alt="SmokeLog Avatar" width="150" />
-  </a>
+  <img src="https://github.com/GarlicRot.png" alt="GarlicRot Avatar" width="100" />
+  
+  # Hi there, I'm GarlicRot! 👋
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=GarlicRot&color=brightgreen)
+  [![GitHub followers](https://img.shields.io/github/followers/GarlicRot?label=Follow&style=social)](https://github.com/GarlicRot)
 </div>
 
-🚧 **Under Construction** 🚧
+## 🔭 Current Projects
+- **🔥 SmokeLog** - A sophisticated habit tracking tool providing data-driven insights
+  <details>
+    <summary>Learn more</summary>
+    <div align="center">
+      <img src="https://github.com/SmokeLog.png" alt="SmokeLog Logo" width="150" />
+      
+      🚧 **Under Development** 🚧  
+      Creating tools to help users track and analyze their daily habits.
+    </div>
+  </details>
 
-SmokeLog is dedicated to creating tools to help users log their daily habits. Our project allows users to track smoking activities and provides valuable statistics for better insights. More updates coming soon!
+## ⚡ RusherHack Plugin Collection
 
----
-
-## ⚡ RusherHack Plugins
-
-<details>
-  <summary>Click to see my RusherHack plugins</summary>
-
-<div align="center">
-  <a href="https://github.com/RusherDevelopment/rusherhack-plugins">
-    <img src="https://github.com/RusherDevelopment/rusherhack-plugins/raw/main/Assets/RusherHacks/rh_head.png" alt="RusherHacks Logo" width="150" />
-  </a>
-</div>
-
-### [RusherHack Plugins](https://github.com/RusherDevelopment/rusherhack-plugins)
-
-[![GitHub stars](https://img.shields.io/github/stars/RusherDevelopment/rusherhack-plugins?style=social)](https://github.com/RusherDevelopment/rusherhack-plugins/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/RusherDevelopment/rusherhack-plugins)](https://github.com/RusherDevelopment/rusherhack-plugins/commits/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/RusherDevelopment/rusherhack-plugins)](https://github.com/RusherDevelopment/rusherhack-plugins/graphs/contributors)
-
-I actively maintain a repository of plugins designed to enhance the RusherHack experience. This project is a collaboration with other developers to provide a variety of useful plugins.
-
----
-
+I develop and maintain several popular plugins for RusherHack:
 
 <div align="center">
   <a href="https://github.com/GarlicRot/GarlicSight">
-    <img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" alt="GarlicSight Icon" width="150" />
+    <img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" alt="GarlicSight" width="64" />
   </a>
-</div>
-
-### [GarlicSight](https://github.com/GarlicRot/GarlicSight)
-
-[![GitHub stars](https://img.shields.io/github/stars/GarlicRot/GarlicSight?style=social)](https://github.com/GarlicRot/GarlicSight/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GarlicRot/GarlicSight)](https://github.com/GarlicRot/GarlicSight/commits)
-[![GitHub All Releases](https://img.shields.io/github/downloads/GarlicRot/GarlicSight/total)](https://github.com/GarlicRot/GarlicSight/releases/download/v1.0.1/Garlic-Sight-1.0.1.jar)
-
-GarlicSight is a RusherHack plugin designed to enhance your crosshair information display. It provides detailed insights about the blocks and entities you're targeting, including information on mobs, players, and other entities in your line of sight. The plugin also includes detailed Redstone component information, allowing you to view power levels, states, delays, and modes for various Redstone devices.
-
----
-
-
-<div align="center">
   <a href="https://github.com/GarlicRot/LightningPop">
-    <img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" alt="LightningPop Icon" width="150" />
+    <img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" alt="LightningPop" width="64" />
+  </a>
+  <a href="https://github.com/GarlicRot/AutoBucket">
+    <img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" alt="AutoBucket" width="64" />
   </a>
 </div>
 
-### [LightningPop](https://github.com/GarlicRot/LightningPop)
+### Featured Releases:
+- **[🎯 GarlicSight](https://github.com/GarlicRot/GarlicSight)** - Enhanced crosshair information system
+- **[⚡ LightningPop](https://github.com/GarlicRot/LightningPop)** - Dynamic lightning effects for gameplay events
+- **[🪣 AutoBucket](https://github.com/GarlicRot/AutoBucket)** - Intelligent aquatic mob capture automation
+- **[🖥️ Instance Info](https://github.com/GarlicRot/rusherhack-instance-info)** - Advanced Minecraft window customization
 
-[![GitHub stars](https://img.shields.io/github/stars/GarlicRot/LightningPop?style=social)](https://github.com/GarlicRot/LightningPop/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GarlicRot/LightningPop)](https://github.com/GarlicRot/LightningPop/commits)
-[![GitHub All Releases](https://img.shields.io/github/downloads/GarlicRot/LightningPop/total)](https://github.com/GarlicRot/LightningPop/releases/download/v1.0.1/LightningPop-1.0.1.jar)
-
-LightningPop adds lightning strikes during gameplay events, such as totem pops and player deaths. With LightningPop, you can customize whether lightning strikes occur when a player’s totem pops or when they die. The plugin offers flexible settings to include or exclude your own totem pops and decide if lightning should trigger on any death or only those caused by attacks.
-
----
-
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/GarlicRot/AutoBucket">
-    <img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" alt="AutoBucket Icon" width="150" />
-  </a>
+  
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GarlicRot&show_icons=true&theme=dark)](https://github.com/GarlicRot)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarlicRot&layout=compact&theme=dark)](https://github.com/GarlicRot)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarlicRot&theme=dark)
 </div>
 
-### [AutoBucket](https://github.com/GarlicRot/AutoBucket)
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-[![GitHub stars](https://img.shields.io/github/stars/GarlicRot/AutoBucket?style=social)](https://github.com/GarlicRot/AutoBucket/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GarlicRot/AutoBucket)](https://github.com/GarlicRot/AutoBucket/commits)
-[![GitHub All Releases](https://img.shields.io/github/downloads/GarlicRot/AutoBucket/total)](https://github.com/GarlicRot/AutoBucket/releases/download/v1.0.3/AutoBucket-1.0.3.jar)
-
-AutoBucket automates the process of capturing aquatic mobs with water buckets. This plugin simplifies the process of collecting various aquatic creatures by automating the use of water buckets when you're near specific mobs.
+<div align="center">
+  
+  ### 💬 Get in Touch
+  [![Discord](https://img.shields.io/badge/Discord-GarlicRot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+  [![GitHub](https://img.shields.io/badge/GitHub-GarlicRot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarlicRot)
+</div>
 
 ---
-
-### [RusherHack Instance Info](https://github.com/GarlicRot/rusherhack-instance-info)
-[![GitHub stars](https://img.shields.io/github/stars/GarlicRot/rusherhack-instance-info?style=social)](https://github.com/GarlicRot/rusherhack-instance-info/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GarlicRot/rusherhack-instance-info)](https://github.com/GarlicRot/rusherhack-instance-info/commits)
-[![GitHub All Releases](https://img.shields.io/github/downloads/GarlicRot/rusherhack-instance-info/total)](https://github.com/GarlicRot/rusherhack-instance-info/releases/download/v1.3/instance-info-1.3.jar)
-
-This forked plugin enhances the Minecraft window title by displaying useful information such as your account name, the server you're connected to, and your Minecraft skin as the window icon. It also introduces new customization options like setting custom account names, server names, and status messages.
-
-</details>
+<div align="center">
+  <a href="https://github.com/GarlicRot/GarlicSight">
+    <img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" alt="GarlicSight" width="30" />
+  </a>
+  <a href="https://github.com/GarlicRot/LightningPop">
+    <img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" alt="LightningPop" width="30" />
+  </a>
+  <a href="https://github.com/GarlicRot/AutoBucket">
+    <img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" alt="AutoBucket" width="30" />
+  </a>
+  
+  Star ⭐ my repositories if you find them interesting!
+</div>
