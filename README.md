@@ -61,7 +61,7 @@ I develop and maintain several plugins for RusherHack:
 <div align="center">
   
   ### 💬 Get in Touch
-  [![Discord](https://img.shields.io/badge/Discord-GarlicRot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+  [![Discord](https://img.shields.io/badge/Discord-Garlic-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/119982148945051651)
   [![GitHub](https://img.shields.io/badge/GitHub-GarlicRot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarlicRot)
 </div>
 
