@@ -21,7 +21,7 @@
 
 ## ⚡ RusherHack Plugin Collection
 
-I develop and maintain several popular plugins for RusherHack:
+I develop and maintain several plugins for RusherHack:
 
 <div align="center">
   <a href="https://github.com/GarlicRot/GarlicSight">
