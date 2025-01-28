@@ -59,14 +59,6 @@ I develop and maintain several plugins for RusherHack:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 <div align="center">
-  
-  ### 💬 Get in Touch
-  [![Discord](https://img.shields.io/badge/Message%20Me%20on%20Discord-Garlic-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/119982148945051651)
-  [![GitHub](https://img.shields.io/badge/GitHub-GarlicRot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarlicRot)
-</div>
-
----
-<div align="center">
   <a href="https://github.com/GarlicRot/GarlicSight">
     <img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" alt="GarlicSight" width="30" />
   </a>
