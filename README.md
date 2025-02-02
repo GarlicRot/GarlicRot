@@ -14,7 +14,7 @@
 
 ### 🔥 **SmokeLog** – Habit Tracker  
 A **data-driven** tracking tool providing **insights** into daily habits.  
-[📌 View Project](https://github.com/GarlicRot/SmokeLog)
+[📌 View Project](https://github.com/SmokeLog)
 
 ### 🎨 **TeamSesh** – Artists & Albums Gallery  
 A **static webpage** showcasing the **TeamSesh collective's artists and their discographies**, utilizing HTML, CSS, and JavaScript.  
