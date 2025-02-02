@@ -24,6 +24,11 @@ A **static webpage** showcasing the **TeamSesh collective's artists and their di
 
 ## ⚡ RusherHack Plugins
 
+📌 **Official RusherHack Plugin List**  
+
+I actively **maintain and update** the **[official list of RusherHack plugins](https://github.com/RusherDevelopment/rusherhack-plugins)**, ensuring that community-made plugins are **organized, accessible, and up-to-date**.
+
+
 ### 🎯 **Current Releases**  
 I develop and maintain several **RusherHack** plugins:
 
@@ -81,7 +86,7 @@ I develop and maintain several **RusherHack** plugins:
 ## 📢 Stay Connected  
 ⭐ **Star** my repositories to show support!  
 🛠️ **Want to contribute?** Fork & PR!  
-💬 **Reach out** via [GitHub Discussions](https://github.com/GarlicRot)  
+💬 **Reach out** via [GitHub Discussions](https://github.com/GarlicRot/GarlicRot/discussions)  
 
 ---
 
