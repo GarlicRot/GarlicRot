@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/GarlicRot.png" alt="GarlicRot Avatar" width="100" />
 
-  # GarlicRot 👋  
-  **Minecraft Modder | Developer | Creator**
+  # GarlicRot 👋
   
   ![Profile Views](https://komarev.com/ghpvc/?username=GarlicRot&color=brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/GarlicRot?label=Follow&style=social)](https://github.com/GarlicRot)
