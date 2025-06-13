@@ -14,8 +14,8 @@
 - **SmokeLog** – A data-driven habit tracker with actionable insights.  
   [📌 View](https://github.com/SmokeLog)
 
-- **TeamSesh** – A sleek gallery of TeamSesh artists and albums (HTML, CSS, JS).  
-  [📌 View](https://github.com/GarlicRot/TeamSesh)
+- **GarlicRemind** – A precise and lightweight Discord bot for setting reminders with full timezone support and recurring scheduling.  
+  [📌 View](https://github.com/GarlicRot/GarlicRemind)
 
 ---
 
