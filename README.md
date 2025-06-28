@@ -1,27 +1,23 @@
 <div align="center">
   <img src="https://github.com/GarlicRot.png" alt="GarlicRot Avatar" width="100" />
-  
-  # GarlicRot 👋
-  
+
+  # GarlicRot
+
   ![Profile Views](https://komarev.com/ghpvc/?username=GarlicRot&color=brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/GarlicRot?label=Follow&style=social)](https://github.com/GarlicRot)
 </div>
 
----
+## Projects I'm Building
 
-## 🛠️ What I’m Building
+- **[SmokeLog](https://github.com/SmokeLog)**  
+  A data-driven habit tracker with session logging, inventory management, and leaderboards.
 
-- **SmokeLog** – A data-driven habit tracker with actionable insights.  
-  [📌 View](https://github.com/SmokeLog)
+- **[GarlicRemind](https://github.com/GarlicRot/GarlicRemind)**  
+  A lightweight and precise Discord bot for reminders with full timezone and repeat support.
 
-- **GarlicRemind** – A precise and lightweight Discord bot for setting reminders with full timezone support and recurring scheduling.  
-  [📌 View](https://github.com/GarlicRot/GarlicRemind)
+## RusherHack Contributions
 
----
-
-## ⚡ RusherHack Contributions
-
-I maintain the **[official RusherHack plugin list](https://github.com/RusherDevelopment/rusherhack-plugins)** and develop these plugins:
+I maintain the **[official RusherHack plugin list](https://github.com/RusherDevelopment/rusherhack-plugins)** and actively develop plugins for the RusherHack client.
 
 <div align="center">
   <a href="https://github.com/GarlicRot/GarlicSight"><img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" width="40" /></a>
@@ -30,27 +26,14 @@ I maintain the **[official RusherHack plugin list](https://github.com/RusherDeve
   <a href="https://github.com/GarlicRot/GarlicBreeder"><img src="https://github.com/GarlicRot/GarlicBreeder/raw/master/assets/GarlicBreeder.png" width="40" /></a>
 </div>
 
-- **[GarlicSight](https://github.com/GarlicRot/GarlicSight)** – Enhanced crosshair info.  
-- **[LightningPop](https://github.com/GarlicRot/LightningPop)** – Dynamic lightning effects.  
-- **[AutoBucket](https://github.com/GarlicRot/AutoBucket)** – Automated bucket utility.  
-- **[GarlicBreeder](https://github.com/GarlicRot/GarlicBreeder)** – Easy mob breeding.
+- **[GarlicSight](https://github.com/GarlicRot/GarlicSight)** – Crosshair block info overlay.  
+- **[LightningPop](https://github.com/GarlicRot/LightningPop)** – Lightning effects triggered by kills.  
+- **[AutoBucket](https://github.com/GarlicRot/AutoBucket)** – Auto water bucket collection system.  
+- **[GarlicBreeder](https://github.com/GarlicRot/GarlicBreeder)** – Smart mob breeding automation.  
+- **[RusherChat](https://github.com/GarlicRot/RusherChat)** – Real-time in-game chat using WebSocket.
 
 ---
-
-## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GarlicRot&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarlicRot&layout=compact&theme=dark" />
 </div>
-
----
-
-## 📢 Let’s Connect
-
-- ⭐ Star my repos to show support!  
-- 💬 Join the convo on [GitHub Discussions](https://github.com/GarlicRot/GarlicRot/discussions).
-
----
-
-### Thanks for visiting! 🚀
