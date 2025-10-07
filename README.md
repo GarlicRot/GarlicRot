@@ -42,20 +42,28 @@ A lightweight and precise Discord bot for reminders with full timezone and repea
 
 ## RusherHack Contributions
 
-I maintain the **[official RusherHack plugin list](https://github.com/RusherDevelopment/rusherhack-plugins)** and actively develop plugins for the RusherHack client.
+I maintain the **[official RusherHack Plugin Collection](https://github.com/RusherDevelopment/rusherhack-plugins)** and actively develop plugins and ecosystem tools for the RusherHack client — including the public API that powers plugin discovery and integration.
 
 <div align="center">
-  <a href="https://github.com/GarlicRot/GarlicSight"><img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" width="40" /></a>
-  <a href="https://github.com/GarlicRot/LightningPop"><img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" width="40" /></a>
-  <a href="https://github.com/GarlicRot/AutoBucket"><img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" width="40" /></a>
-  <a href="https://github.com/GarlicRot/GarlicBreeder"><img src="https://github.com/GarlicRot/GarlicBreeder/raw/master/assets/GarlicBreeder.png" width="40" /></a>
+  <a href="https://github.com/GarlicRot/GarlicSight"><img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" width="45" alt="GarlicSight" /></a>
+  <a href="https://github.com/GarlicRot/LightningPop"><img src="https://github.com/GarlicRot/LightningPop/raw/master/assets/LightningPop.png" width="45" alt="LightningPop" /></a>
+  <a href="https://github.com/GarlicRot/AutoBucket"><img src="https://github.com/GarlicRot/AutoBucket/raw/master/assets/AutoBucket.png" width="45" alt="AutoBucket" /></a>
+  <a href="https://github.com/GarlicRot/GarlicBreeder"><img src="https://github.com/GarlicRot/GarlicBreeder/raw/master/assets/GarlicBreeder.png" width="45" alt="GarlicBreeder" /></a>
 </div>
 
 - **[GarlicSight](https://github.com/GarlicRot/GarlicSight)** – Crosshair block info overlay.  
 - **[LightningPop](https://github.com/GarlicRot/LightningPop)** – Lightning effects triggered by kills.  
 - **[AutoBucket](https://github.com/GarlicRot/AutoBucket)** – Auto water bucket collection system.  
 - **[GarlicBreeder](https://github.com/GarlicRot/GarlicBreeder)** – Smart mob breeding automation.  
-- **[RusherChat](https://github.com/GarlicRot/RusherChat)** – Real-time in-game chat using WebSocket.
+- **[RusherChat](https://github.com/GarlicRot/RusherChat)** – Real-time in-game chat via WebSocket.
+
+### API & Ecosystem
+- **[RusherHack Plugin/Theme API](https://github.com/RusherDevelopment/rusherhack-plugins/blob/main/API.md)**  
+  A free static JSON API providing structured metadata for all public RusherHack plugins and themes.  
+
+- **[RusherSearch](https://github.com/GarlicRot/RusherSearch)**  
+  A demo repository showcasing the API in action.  
+  Built to demonstrate how developers can consume and visualize plugin data from the RusherHack API.
 
 ---
 
@@ -71,6 +79,7 @@ I maintain the **[official RusherHack plugin list](https://github.com/RusherDeve
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
 
 </div>
+
 
 
 
