@@ -35,5 +35,14 @@ I maintain the **[official RusherHack plugin list](https://github.com/RusherDeve
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarlicRot&show_icons=true&theme=dark" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=GarlicRot&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=8be9fd&text_color=ffffff" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GarlicRot&theme=dracula&hide_border=true&background=0D1117&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd" width="48%">
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarlicRot&theme=dracula&hide_border=true&area=true&bg_color=0D1117" width="98%">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
+
 </div>
