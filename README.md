@@ -8,6 +8,8 @@
   [![Discord](https://img.shields.io/badge/Discord-Garlic.-5865F2?logo=discord&logoColor=white)](https://discord.com/users/119982148945051651)
 </div>
 
+---
+
 ## Projects I'm Building
 
 <div align="center">
@@ -35,6 +37,8 @@ A lightweight and precise Discord bot for reminders with full timezone and repea
 <sub>Built with <b>Node.js</b> • <b>Discord.js</b> • <b>Firestore</b></sub>
 
 </div>
+
+---
 
 ## RusherHack Contributions
 
@@ -67,6 +71,7 @@ I maintain the **[official RusherHack plugin list](https://github.com/RusherDeve
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
 
 </div>
+
 
 
 
