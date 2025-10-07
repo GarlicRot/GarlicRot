@@ -5,15 +5,32 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=GarlicRot&color=brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/GarlicRot?label=Follow&style=social)](https://github.com/GarlicRot)
+  [![Discord](https://img.shields.io/badge/Discord-Garlic.-5865F2?logo=discord&logoColor=white)](https://discord.com/users/119982148945051651)
 </div>
 
 ## Projects I'm Building
 
-- **[SmokeLog](https://github.com/SmokeLog)**  
-  A data-driven habit tracker with session logging, inventory management, and leaderboards.
+<div align="center">
 
-- **[GarlicRemind](https://github.com/GarlicRot/GarlicRemind)**  
-  A lightweight and precise Discord bot for reminders with full timezone and repeat support.
+<a href="https://github.com/SmokeLog">
+  <img src="https://github.com/SmokeLog.png" width="90" alt="SmokeLog Logo" style="border-radius: 20px; margin-bottom: 10px;" />
+</a>  
+<br>
+<a href="https://github.com/SmokeLog"><b>SmokeLog</b></a>  
+A data-driven habit tracker with session logging, inventory management, and leaderboards. <br>
+<sub>Built with <b>Next.js</b> • <b>Firebase</b> • <b>TailwindCSS</b></sub>
+
+---
+
+<a href="https://github.com/GarlicRot/GarlicRemind">
+  <img src="https://raw.githubusercontent.com/GarlicRot/GarlicRemind/main/icon.png" width="90" alt="GarlicRemind Icon" style="border-radius: 20px; margin-bottom: 10px;" />
+</a>  
+<br>
+<a href="https://github.com/GarlicRot/GarlicRemind"><b>GarlicRemind</b></a>  
+A lightweight and precise Discord bot for reminders with full timezone and repeat support. <br>
+<sub>Built with <b>Node.js</b> • <b>Discord.js</b> • <b>Firestore</b></sub>
+
+</div>
 
 ## RusherHack Contributions
 
@@ -46,3 +63,4 @@ I maintain the **[official RusherHack plugin list](https://github.com/RusherDeve
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
 
 </div>
+
