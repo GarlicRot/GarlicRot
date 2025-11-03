@@ -42,6 +42,9 @@ A lightweight and precise Discord bot for reminders with full timezone and repea
 
 ## RusherHack Contributions
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RusherDevelopment/rusherhack-plugins/refs/heads/main/Assets/RusherHacks/rh_head.png" alt="Rusherhack Icon" width="100" />
+
 I maintain the **[official RusherHack Plugin Collection](https://github.com/RusherDevelopment/rusherhack-plugins)** and actively develop plugins and ecosystem tools for the RusherHack client — including the public API that powers plugin discovery and integration.
 
 <div align="center">
@@ -79,6 +82,7 @@ I maintain the **[official RusherHack Plugin Collection](https://github.com/Rush
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
 
 </div>
+
 
 
 
