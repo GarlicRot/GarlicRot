@@ -36,8 +36,17 @@ A data-driven habit tracker with session logging, inventory management, and lead
 A lightweight and precise Discord bot for reminders with full timezone and repeat support. <br>
 <sub>Built with <b>Node.js</b> • <b>Discord.js</b> • <b>Firestore</b></sub>
 
-<br>
-<br>
+</div>
+
+---
+
+## RusherHack Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RusherDevelopment/rusherhack-plugins/refs/heads/main/Assets/RusherHacks/rh_head.png" alt="Rusherhack Icon" width="100" />
+
+I maintain the **[official RusherHack Plugin Collection](https://github.com/RusherDevelopment/rusherhack-plugins)** and actively develop plugins and ecosystem tools for the RusherHack client — including the public API that powers plugin discovery and integration.
+
 <br>
 
 <a href="https://github.com/GarlicRot/Rusher-Plugin-BBot">
@@ -49,16 +58,10 @@ A lightweight and precise Discord bot for reminders with full timezone and repea
 A Discord bot for searching, browsing, and filtering RusherHacks plugins and themes directly inside Discord. <br>
 <sub>Built with <b>Node.js</b> • <b>Discord.js</b></sub>
 
-</div>
+<br>
+<br>
 
----
-
-## RusherHack Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RusherDevelopment/rusherhack-plugins/refs/heads/main/Assets/RusherHacks/rh_head.png" alt="Rusherhack Icon" width="100" />
-
-I maintain the **[official RusherHack Plugin Collection](https://github.com/RusherDevelopment/rusherhack-plugins)** and actively develop plugins and ecosystem tools for the RusherHack client — including the public API that powers plugin discovery and integration.
+### Plugins I've created
 
 <div align="center">
   <a href="https://github.com/GarlicRot/GarlicSight"><img src="https://github.com/GarlicRot/GarlicSight/raw/master/assets/GarlicSight.png" width="45" alt="GarlicSight" /></a>
@@ -95,6 +98,7 @@ I maintain the **[official RusherHack Plugin Collection](https://github.com/Rush
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
 
 </div>
+
 
 
 
