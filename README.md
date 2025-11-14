@@ -36,6 +36,19 @@ A data-driven habit tracker with session logging, inventory management, and lead
 A lightweight and precise Discord bot for reminders with full timezone and repeat support. <br>
 <sub>Built with <b>Node.js</b> • <b>Discord.js</b> • <b>Firestore</b></sub>
 
+<br>
+<br>
+<br>
+
+<a href="https://github.com/GarlicRot/Rusher-Plugin-BBot">
+  <img src="https://raw.githubusercontent.com/GarlicRot/Rusher-Plugin-Bot/main/assets/Avatar.png" width="70" alt="Rusher Plugin Bot Avatar" style="border-radius: 20px; margin-bottom: 10px;" />
+</a>  
+<br>
+<a href="https://github.com/GarlicRot/Rusher-Plugin-Bot"><b>Rusher-Plugin-Bot</b></a>
+<br>
+A Discord bot for searching, browsing, and filtering RusherHacks plugins and themes directly inside Discord. <br>
+<sub>Built with <b>Node.js</b> • <b>Discord.js</b></sub>
+
 </div>
 
 ---
@@ -82,6 +95,7 @@ I maintain the **[official RusherHack Plugin Collection](https://github.com/Rush
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
 
 </div>
+
 
 
 
